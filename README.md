@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/rgasiorek/YAML-Tests/_apis/build/status/First-Java.CI?branchName=master)](https://dev.azure.com/rgasiorek/YAML-Tests/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
